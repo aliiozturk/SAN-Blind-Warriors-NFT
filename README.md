@@ -1,4 +1,4 @@
-# NFT1
+# NFT
 ![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images1/1.png)
 ![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images1/2.png)
 ![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images1/3.png)
