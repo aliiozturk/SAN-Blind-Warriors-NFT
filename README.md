@@ -1,31 +1,6 @@
 # NFT1
 
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/1.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/2.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/3.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/4.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/5.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/6.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/7.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/8.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/9.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/10.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/11.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/12.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/13.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/14.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/15.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/16.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/17.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/18.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/19.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/20.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/21.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/22.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/23.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/24.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/25.PNG)
-![nft images](https://github.com/aliiozturk/NFT1/blob/master/NFT%20Project/Pages/images/26.PNG)
+
 
    
 
